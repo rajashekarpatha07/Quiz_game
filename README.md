@@ -17,7 +17,7 @@ This project is a Python-based quiz game developed using Tkinter. It offers a us
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/quiz-game.git
+   git clone https://github.com/rajashekarpatha07/Quiz_game.git
    cd quiz-game
    ```
 
